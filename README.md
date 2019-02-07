@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The bots on this site enjoy punishing quick mistakes. Make sure you don't hit merge before they are completley finished what they want from you
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Stops all progress on your course forcing you to give up and restart
 
 ## Getting started
 
