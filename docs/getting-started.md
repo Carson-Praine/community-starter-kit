@@ -34,5 +34,9 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+* **Installation instructions:**
+ You are now contributing **good luck!**
+* **Completing essential tasks:**
+  do as your told the bots are not smart enough for you to cut corners
+* **Customizing and configuring:**
+  Just don't customize there is a lower chance of messing up!
